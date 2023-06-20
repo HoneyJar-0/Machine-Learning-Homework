@@ -25,4 +25,4 @@ Hello! In this repo are 5 folders, each referring to the work I did for my machi
 + stoichastic gradient descent
 
 ### Note to reader:
-You may notice there isn't much of a commit history here. That's because of an issue I had with my files in this repository. Due to both computer-side issues, I was unable to push my files to this repo. Please see my other projects to get a better grasp of my frequency of commits and pushes.
+You may notice there isn't much of a commit history here. This is because of both an old private repo issue and computer-side issues. Please see my other projects to get a better grasp of my frequency of commits and pushes.
