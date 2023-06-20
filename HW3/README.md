@@ -2,7 +2,7 @@
 ## Tasks
 ### Part 1
 1. Implement stochastic gradient descent
-  - each weight should be initialized from a normal distribution with a small deviation
+    - each weight should be initialized from a normal distribution with a small deviation
 2. Train the classifier on the Fashion MNIST dataset. Show the regularized cross-entropy training loss for the last 20 batches.
 3. Compute the percent correct accuracy on the test set after optimizing the weights on the training set.
 4. Visualize the trained weight vectors.
